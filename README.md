@@ -10,7 +10,7 @@ Amigo Secreto es una pagina web interactiva para organizar un juego de "Amigo Se
 ✅ Interfaz amigable y responsiva para una mejor experiencia de usuario.
 
 ## 🛠️ Tecnologías utilizadas
-HTML5
-CSS3
-JavaScript (ES6+)
+HTML5 -
+CSS3 -
+JavaScript (ES6+) 
 
